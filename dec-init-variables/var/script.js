@@ -1,13 +1,13 @@
 // START First Example
 
-function varExample1() {
-  var a = 10;
-  console.log(`Function scope: ${a}`);
-}
 
-var a = 20;
-console.log(`Out of function scope: ${a}`);
-varExample1();
+// function varExample1() {
+//   // var a = 10;
+//   console.log(`Function scope: ${a}`);
+// }
+
+// console.log(`Out of function scope: ${a}`);
+// varExample1();
 
 // START First Example
 
