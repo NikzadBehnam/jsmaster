@@ -10,7 +10,7 @@ console.log("His age: ", person.age);
 /* 
 
 آبجکت هانند هر وریابل دیگر توسط لت، ور، یا کانست تعریف میشود
-معلومات یا دیتا مربوط به آبجک در داخل کرلی بریسس یا قوسط بزرگ نوشته نوشته میشود
+معلومات یا دیتا مربوط به آبجک در داخل کرلی بریسس یا قوسط بزرگ نوشته میشود
 معلومات ذخیره شده در داخل آبجکت  به کی و والیو پیرس  نمایش داده مشود
 معموله آبجک وقتی استفاده میشود که وریابل مورد نظر ما بیش از یک مشخصه دارد برای استفاده 
 
@@ -39,11 +39,6 @@ let laptop = {
 
 
 */
-
-// if (hasPermission) {
-//   console.log("you are eligible !");
-// }
-// console.log("out of IF");
 
 // const temperatureDiv = document.querySelector("#temp");
 // temperatureDiv.textContent = temperature;
